@@ -1,0 +1,6 @@
+name: ServerChatPlugin
+version: 1.0.0
+description: Plugin for server communicating with redis
+author: Phinary
+website: http://phinary.ca
+main: ca.phinary.serverchat.ServerChat

@@ -26,3 +26,16 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# Mac filesystem dust
+.DS_Store
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+
+out/
+
+lib/
